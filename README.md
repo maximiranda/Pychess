@@ -17,7 +17,7 @@ python3 game.py
 ```
 ## Screenshots
 
-![Alt text](/Pychess/screenshots/screen1.png?raw=true)
+![Alt text](maximiranda/Pychess/screenshots/screen1.png?raw=true)
 ![Alt text](/Pychess/screenshots/screen2.png?raw=true)
 ![Alt text](/Pychess/screenshots/screen3.png?raw=true)
 ## Contributing
