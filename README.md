@@ -18,8 +18,8 @@ python3 game.py
 ## Screenshots
 
 ![Alt text](/screenshots/screen1.png?raw=true)
-![Alt text](/Pychess/screenshots/screen2.png?raw=true)
-![Alt text](/Pychess/screenshots/screen3.png?raw=true)
+![Alt text](screenshots/screen2.png?raw=true)
+![Alt text](screenshots/screen3.png?raw=true)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
